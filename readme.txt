@@ -3,3 +3,4 @@ Git is free software distributed under the GPL. Git has a mutable index called s
 Git tracks changes of files.
 creating new branch is quick and simple.
 at branch dev
+new before stash
